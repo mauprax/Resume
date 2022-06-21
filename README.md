@@ -7,6 +7,11 @@ Curriculum Vitae
 # Mauricio Praxedis Avalos
 
 
+##Contacto
+
+* Celular (+52) 55 3023 5636
+* Correo  praxedo24@hotmail.com
+
 
 ### Perfil Profesional 
 
@@ -35,7 +40,7 @@ COMDATA GROUP 2014 – 2018
 
 * Desarrolle  mis  labores como encargado del Departamento de Sistemas en Site. 
 * Realice funciones principalmente de soporte técnico remoto a clientes top.
-* Reparación y mantenimiento de equipos de computo.
+* Reparación y mantenimiento de equipos de cómputo.
 * Monitoreo de servidores y enlaces con Sites de la misma empresa.
 
 
@@ -52,6 +57,6 @@ CBT Isidro Fabela Alfaro
 
 ## Idiomas
 - Español (Nativo)
-- Ingles (Habla Básico, Lectura Intermedio)
-- Aleman (Básico)
+- Inglés (Habla Básico, Lectura Intermedio)
+- Alemán (Básico)
 
