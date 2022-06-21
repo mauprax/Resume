@@ -1,9 +1,12 @@
 # Resume
 Curriculum Vitae 
-# Mauricio Praxedis Avalos
+
 
 ![Octocat](https://github.com/mauprax/Resume/blob/98dc67006570cdbf617dde9d07c0354952d2c1ca/mau.png)
 ## Desarrollador Python Django 
+# Mauricio Praxedis Avalos
+
+
 
 ### Perfil Profesional 
 
