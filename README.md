@@ -7,7 +7,7 @@ Curriculum Vitae
 # Mauricio Praxedis Avalos
 
 
-##Contacto
+## Contacto
 
 * Celular (+52) 55 3023 5636
 * Correo  praxedo24@hotmail.com
