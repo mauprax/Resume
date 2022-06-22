@@ -1,7 +1,7 @@
 # Resume
 Curriculum Vitae 
 
-![Image text](https://github.com/mauprax/Resume/blob/64b3b22e83c6536465ef6b6778441c770342896d/mau.png)
+![Image text](https://raw.githubusercontent.com/mauprax/Resume/master/mau.png)
 ## Desarrollador Python Django 
 # Mauricio Praxedis Avalos
 
