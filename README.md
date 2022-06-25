@@ -5,7 +5,7 @@ Curriculum Vitae
 ## Desarrollador Python Django 
 # Mauricio Praxedis Avalos
 
-#https://mauprax.github.io/Resume/
+# https://mauprax.github.io/Resume/
 
 
 ## Contacto
