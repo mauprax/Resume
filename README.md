@@ -2,7 +2,7 @@
 Curriculum Vitae 
 
 ![Image text](https://raw.githubusercontent.com/mauprax/Resume/master/maur.png)
-## Desarrollador Python Django 
+## Desarrollador Python
 # Mauricio Praxedis Avalos
 
 ### https://mauprax.github.io/Resume/
@@ -20,7 +20,7 @@ Curriculum Vitae
 
 #### Software  
 * VS Code | Git Bash/Hub| Docker | Django
-* Node JS | SQL | Postman | Python 
+* SQL | Postman | Python 
 * OS | Linux  | Windows
 
 ### EXPERIENCIA PROFESIONAL 
