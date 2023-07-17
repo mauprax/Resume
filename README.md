@@ -16,7 +16,7 @@ Curriculum Vitae
 
 ### Perfil Profesional 
 
-* Cuento  con  29  años  de  edad  y  profesionalmente  con  11  años  de  experiencia en  soporte  técnico  y uso de sistemas computarizados. Con más de 5 años de manejo de KPI´s o métricas en diferentes estilos y atención al cliente. Con  2  años  de experiencia  en  arquitectura  de Software para procesos logísticos.  
+* Cuento  con  30  años  de  edad  y  profesionalmente  con  11  años  de  experiencia en  soporte  técnico  y uso de sistemas computarizados. Con más de 5 años de manejo de KPI´s o métricas en diferentes estilos y atención al cliente. Con  2  años  de experiencia  en  arquitectura  de Software para procesos logísticos.  
 
 #### Software  
 * VS Code | Git Bash/Hub| Docker | Django
